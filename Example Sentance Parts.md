@@ -8,10 +8,10 @@
 
 ## Part 2
 
-> cross the ocean.
-> cross the road.
-> fall down a hole.
-> call the doctor.
+> cross the ocean?
+> cross the road?
+> fall down a hole?
+> call the doctor?
 
 ## Part 3
 

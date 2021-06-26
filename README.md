@@ -32,21 +32,12 @@
 
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _complete_ 
 
 
 ## Room for Improvement
 Im sure there will be many ways to improve my code.  This is my first attempt.
-
-Room for improvement:
-
-
-To do:
-- Random number generator
-- create arrays
-- create function to pull random parts
-- creat function to place all parts into a sentance to show
-
+ 
 
 ## Acknowledgements
 Give credit here.
