@@ -40,12 +40,12 @@ Im sure there will be many ways to improve my code.  This is my first attempt.
  
 
 ## Acknowledgements
-Give credit here.
+
 - Google for terrible joke parts
 
 
 ## Contact
-Created by @BenjaminMills
+Created by [@BenjaminMills]
 
 
 
