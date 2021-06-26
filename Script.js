@@ -14,14 +14,14 @@ const messagePartThree =    ["  To get to the other side!",
                             "  Because it was April fools' day!", 
                             "  Because his World was crumbling!"]
 
-//Create a random number from length of messagePartOne - Must have the same number of parts in each array                            
-const randomNum = (num) => {
-    return Math.floor(Math.random() * messagePartOne.length)
+//Create a random number from length of messagePartOne                            
+const randomNum = (array) => {
+    return Math.floor(Math.random() * array.length)
     };
 
 //Create joke
 const createJoke = (parts) => {
-    console.log(messagePartOne[randomNum()]+messagePartTwo[randomNum()]+messagePartThree[randomNum()])
+    console.log(messagePartOne[randomNum(messagePartOne)]+messagePartTwo[randomNum(messagePartTwo)]+messagePartThree[randomNum(messagePartThree)])
     };
 
 //Call createJoke function
